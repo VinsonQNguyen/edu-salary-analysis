@@ -1,6 +1,6 @@
 ## Power BI Dashboard — Education & Income Analysis
 
-Developed a two-page Power BI dashboard to analyze how educational attainment relates to income levels across different age groups using the 1994 U.S. Census Adult Income dataset. This dashboard extends the original Python statistical analysis by translating key findings into accessible business intelligence visualizations.
+Developed a two-page Power BI dashboard to analyze how educational attainment relates to income levels across different age groups using the 1994 U.S. Census Adult Income dataset.
 
 **Tools & Technologies:** Power BI, Power Query (M), DAX, Python, Pandas, Data Visualization
 
