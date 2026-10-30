@@ -27,4 +27,4 @@ Developed a two-page Power BI dashboard to analyze how educational attainment re
 
 ### View the Dashboard
 
-**[View the Power BI Dashboard (PDF)](Education_Income_PowerBI_Dashboard.pdf)**
+**[View the Power BI Dashboard (PDF)](Edu_Income_PowerBI_Dashboard.pdf)**
